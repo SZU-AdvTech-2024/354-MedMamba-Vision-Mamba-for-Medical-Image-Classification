@@ -1,8 +1,6 @@
 @article{REPO354,
     author = "Yue, Yubiao and Li, Zhenzhang",
     journal = "arXiv preprint",
-    note = "arXiv:2403.03849 [Accessed on 2024-12-28]",
     title = "{MedMamba: Vision Mamba for Medical Image Classification}",
-    url = "https://arxiv.org/html/2403.03849",
     year = "2024"
 }
