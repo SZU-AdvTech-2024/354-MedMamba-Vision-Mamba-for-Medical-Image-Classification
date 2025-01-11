@@ -1,0 +1,5 @@
+Accuracy: 0.9465, Sensitivity: 0.9691, Specificity: 0.8814, F1-Score: 0.9641
+AUC: 0.9855, Train Loss: 0.1324
+******************************
+Val. Accuracy: 0.9542, Val. Sensitivity: 0.9460, Val. Specificity: 0.9778, Val. F1-Score: 0.9684
+Val. AUC: 0.9962, Valid Loss: 0.1376
